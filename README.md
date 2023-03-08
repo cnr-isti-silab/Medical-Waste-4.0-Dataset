@@ -1,2 +1,32 @@
 # Medical-Waste-4.0-Dataset
 This dataset was acquired in the framework of the Medical Waste Treating 4.0 funded by the Tuscany Region.
+
+The dataset aims to be a valuable resource for devising and testing computer vision methods for the primary sorting of medical waste.
+
+Acquisition device: OAK-D camera with tech specs available here https://docs.luxonis.com/projects/hardware/en/latest/pages/BW1098OAK.html
+
+Each sample consists of three images, namely an RGB image and a stereo pair:
+
+RGB: 1920 x 1080
+Grayscale: 640 x 400 
+
+Example:
+timestamp.jpg = RGB Image
+timestamp_r.png = Right image in the stereo pair
+timestamp_l.png = Left image in the stereo pair
+
+
+Categories:
+- gauze
+- glove pair latex
+- glove pair nitrile
+- glove pair surgery
+- glove single latex
+- glove single nitrile
+- glove single surgery
+- medical cap
+- medical glasses
+- shoe cover pair
+- shoe cover single
+- test tube
+- urine bag
