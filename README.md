@@ -15,6 +15,9 @@ timestamp.jpg = RGB Image
 timestamp_r.png = Right image in the stereo pair
 timestamp_l.png = Left image in the stereo pair
 
+The full dataset is divided into two sub-datasets, named Dataset $\mathcal{A}$ and Dataset $\mathcal{B}$.
+- Dataset $\mathcal{A}$ is the main dataset that can be used to train, validate and test machine learning algorithms for medical waste classification. It was originally released in zenodo: https://doi.org/10.5281/zenodo.7643416
+- Dataset $\mathcal{B}$ was acquired  on different days from the dataset $\mathcal{A}$, in order to avoid any possible duplicated images between datasets $\mathcal{A}$ and $\mathcal{B}$. It can be used for additional final test.
 
 Categories:
 - gauze
