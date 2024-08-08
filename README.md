@@ -40,7 +40,7 @@ If you use this dataset in your research, please cite:
 ```
 @inproceedings{bruno2023medical,
   title={Medical Waste Sorting: a computer vision approach for assisted primary sorting},
-  author={Bruno, Antonio and Caudai, Claudia and Leone, Giuseppe Riccardo and Martinelli, Massimo and Moroni, Davide and Crotti, F},
+  author={Bruno, Antonio and Caudai, Claudia and Leone, Giuseppe Riccardo and Martinelli, Massimo and Moroni, Davide and Crotti, Francesco},
   booktitle={2023 IEEE International Conference on Acoustics, Speech, and Signal Processing Workshops (ICASSPW)},
   pages={1--5},
   year={2023},
