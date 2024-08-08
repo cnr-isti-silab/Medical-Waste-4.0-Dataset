@@ -33,3 +33,18 @@ Categories:
 - shoe cover single
 - test tube
 - urine bag
+
+ Citation
+If you use this dataset in your research, please cite:
+
+```
+@inproceedings{bruno2023medical,
+  title={Medical Waste Sorting: a computer vision approach for assisted primary sorting},
+  author={Bruno, Antonio and Caudai, Claudia and Leone, Giuseppe Riccardo and Martinelli, Massimo and Moroni, Davide and Crotti, F},
+  booktitle={2023 IEEE International Conference on Acoustics, Speech, and Signal Processing Workshops (ICASSPW)},
+  pages={1--5},
+  year={2023},
+  organization={IEEE}
+  doi = {10.1109/ICASSPW59220.2023.10193520}
+}
+```
